@@ -22,8 +22,8 @@ This application was developed using:
 
 View the repository at: https://github.com/MichaelWitt/Codebase-Walkthrough
 
-<!-- Preview: ![Screenshot](./assets/img/staur-db.png)
-Database: ![Screenshot](./assets/img/staur-demo.png) -->
+Preview: ![Screenshot](../public/img/User-Authentification.png)
+Demo: ![Screenshot](../public/img/Login-Demo.png)
 
 ## Updates
 
