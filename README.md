@@ -12,7 +12,7 @@ Thanks for stopping in!
 
 ## Application
 
-User Authentification:
+User Authentification Walkthrough: https://youtu.be/EjrvHDhmdhU
 
 ## Build Details
 
